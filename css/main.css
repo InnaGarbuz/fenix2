@@ -1,0 +1,117 @@
+.padd-none {
+  padding: 0; }
+
+.fn-text-white {
+  color: #fff; }
+
+.fn-title-section {
+  text-align: center;
+  padding: 20px 0;
+  width: 70%;
+  margin: 0 auto; }
+  .fn-title-section h3 {
+    text-transform: uppercase;
+    font-size: 32px; }
+  .fn-title-section p {
+    font-size: 24px; }
+
+.fn-header {
+  width: 100%;
+  position: absolute;
+  padding: 20px 0; }
+
+.fn-banner {
+  width: 100%;
+  background: url("../img/61.jpg") 50% center/cover no-repeat;
+  height: 500px; }
+
+.fn-header__navbar {
+  padding: 0;
+  text-align: center;
+  margin: 5px 0; }
+  .fn-header__navbar li {
+    display: inline-block;
+    padding: 10px; }
+    .fn-header__navbar li a {
+      color: #fff;
+      font-size: 18px; }
+
+.fn-phone a {
+  color: #fff;
+  font-size: 18px; }
+
+.fn-students__list {
+  padding: 0 0 40px;
+  list-style: none;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex; }
+  .fn-students__list li {
+    display: inline-block;
+    padding: 0px 13px;
+    width: 23%;
+    text-align: center; }
+    .fn-students__list li img {
+      margin: 0 auto; }
+    .fn-students__list li p {
+      font-size: 16px;
+      color: #183e54;
+      font-weight: bold;
+      margin: 5px 0; }
+
+.fn-contact {
+  width: 100%;
+  background: url("../img/contact.jpg") 50% center/cover no-repeat;
+  height: 500px; }
+
+.fn-number {
+  background: #01ddb5;
+  padding: 10px 20px;
+  font-size: 91px;
+  font-weight: bold;
+  color: #1a425d;
+  width: 158px;
+  margin: 0 auto;
+  text-align: center;
+  border-radius: 4px;
+  line-height: 0.9; }
+  .fn-number p {
+    margin: 0;
+    font-size: 24px;
+    line-height: 1;
+    color: #1a425d; }
+
+.fn-contact__form {
+  width: 60%;
+  margin: 0 auto; }
+
+.fn-btn {
+  border-radius: 50px;
+  border: none;
+  width: 377px;
+  height: 68px;
+  padding: 14px 21px;
+  font-size: 20px;
+  color: #fff;
+  background: #01ddb5; }
+
+.form-input {
+  margin: 0 0 14px; }
+  .form-input input {
+    border-radius: 50px;
+    border: 1px solid #fff;
+    width: 377px;
+    height: 68px;
+    padding: 14px 21px;
+    font-size: 16px;
+    color: #fff;
+    background: transparent; }
+
+.fn-footer {
+  background: #1B3A4F;
+  padding: 20px 0; }
+
+.fn-footer__nav {
+  padding: 0; }
+  .fn-footer__nav li a {
+    color: #fff; }
